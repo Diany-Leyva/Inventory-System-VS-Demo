@@ -17,9 +17,9 @@ namespace Inventory_System
     public partial class Main_Form : Form
     {
         //Last Update 3/25    
-        private string customerPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Data\Customers.txt");
-        private string productPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Data\Products.txt");
-        private string donationPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Data\Donations.txt");
+        private string customerPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Customers.txt");
+        private string productPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Products.txt");
+        private string donationPath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Donations.txt");
         
         private List<C_Customer> allCustomers = new List<C_Customer>();
         private List<C_Product> allProducts = new List<C_Product>();
