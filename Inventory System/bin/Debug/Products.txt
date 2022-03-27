@@ -1,0 +1,7 @@
+1001,Craig Compact DVD, Craig,DVD Player,Yes,5.9,1,Processing,45
+1002,TCL Roku Smart TV, TCL, TV, No,45.8,1, Processing,76
+1003,Fire 7 Tablet, Amazon, Tablet, Yes,13.7,1, Processing,34
+1004,Motorola Ace, Motolora,USB drivers,Yes,13.7,1,Refurbish,34
+1005,Lenovo Ideapad, Lenovo, Laptop, Yes,23.5,1, Pending,100
+1006,HP Printer,HP,Printer,Yes,24.78,1,Processing,35.99
+1007,TV Smart 34,Vizio,TV,Yes,23,1,Donation,2

@@ -1,0 +1,6 @@
+1,Dianelys Leyva, diany9012@yahoo.es, 3055603858, 129 E Lockwood Ave, Webster Groves, MO, 63119 
+2,Raul Gonzalez, raulglg@yahoo.com, 5675436543, 1200 Nikita Street, Glendale, MO, 63117 
+3,Madeline Reicht, reimadl23@gmail.com, 3458753432, 2312 Marshall Street, Rock Hill, MO, 63118
+4,Laura Lurashi, llashi@yahoo.com, 3076546763, 123 Pascal Drive, Ballwin, MO, 65423
+6,Patricia Diaz, ptdiaz24@yahoo.com, 7864325421, 457 Kinston Court, Glendale, MO, 65435
+7,Karina Medina,karimed@gmail.com,5675436543,345 Masraga Street , Saint Louis, MO, 54324

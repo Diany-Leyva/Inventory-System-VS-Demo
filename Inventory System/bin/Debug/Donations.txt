@@ -1,0 +1,5 @@
+1,Dianelys Leyva,2,12/23/2021 12:00:00 AM,50.5, Drop Off
+2,Raul Gonzalez,1,6/4/2021 12:00:00 AM,13.5, Drop Off
+3,Madeline Reicht,1,1/8/2021 12:00:00 AM,35.5, Pick Up
+4,Laura Lurashi,1,1/7/2021 12:00:00 AM,5.5, Pick Up
+5,Patricia Diaz,3,3/2/2021 12:00:00 AM,150.5, Drop Off
